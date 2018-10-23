@@ -1,0 +1,1178 @@
+1537840661680	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\anzhuang\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salt\\AppData\\Local\\Temp\\rust_mozprofile.1boGsRtnJsez"
+1537840664139	Marionette	INFO	Listening on port 65408
+1537840664492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537840664516	Marionette	DEBUG	[6442450945] Frame script loaded
+1537840664517	Marionette	DEBUG	[6442450945] Frame script registered
+[Child 1280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, lin[Child 3432, Ce 346h
+rome_ChildThread[Child 1280, Chro] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3432, Chrome_[Parent 7188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537840948497	Marionette	INFO	Stopped listening on p[Parent 10892, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12636, Chrome_ChildThread] WARNING: pipe error: 109: file z:[Child 7284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7284, Chrome_1537840959443	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537840961382	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537840961394	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://radar.itjuzi.com/investment
+1537840961435	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://radar.itjuzi.com/investment
+[Parent 12220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/buil[Parent 12220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537841040795	Marionette	INFO	Stopped listening on port 49622
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537841279985	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\anzhuang\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salt\\AppData\\Local\\Temp\\rust_mozprofile.f6b1yBPwiqyd"
+1537841282239	Marionette	INFO	Listening on port 50420
+1537841282299	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537841282334	Marionette	DEBUG	[6442450945] Frame script loaded
+1537841282336	Marionette	DEBUG	[6442450945] Frame script registered
+1537841282402	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537841283161	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537841283747	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/user/login
+1537841285225	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537841288819	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/user/login
+JavaScript error: https://www.itjuzi.com/user/login, line 1: ReferenceError: CheckPost is not defined
+1537841302622	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/user/login
+1537841303287	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/user/login
+1537841303288	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/user/login
+1537841303292	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/user/login?redirect=&flag=&radar_coupon=
+1537841303304	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1537841303487	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/user/login?redirect=&flag=&radar_coupon=
+1537841308078	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/
+1537841308961	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/
+1537841308961	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/
+1537841309133	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://radar.itjuzi.com/investment
+1537841309382	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1537841309798	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://radar.itjuzi.com/investment
+[Parent 4804, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4804, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1964, Ch[Parent 4804, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil1537844804656	Marionette	INFO	Stopped listening on port 50420
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+0945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/user/login
+1537841505217	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537841508416	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/user/login
+JavaScript error: https://www.itjuzi.com/user/login, line 1: ReferenceError: CheckPost is not defined
+1537841508568	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/user/login
+1537841509337	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/user/login
+1537841509338	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/user/login
+1537841509346	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/user/login?redirect=&flag=&radar_coupon=
+1537841509364	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1537841509543	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/user/login?redirect=&flag=&radar_coupon=
+1537841511359	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/
+1537841512277	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/
+1537841512279	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/
+1537841512381	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://radar.itjuzi.com/investment
+1537841512791	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1537841512998	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://radar.itjuzi.com/investment
+[Parent 10096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12660, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 12660, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 12660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537842722512	Marionette	INFO	Stopped listening on port 50899
+[GPU 15244, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+event pagehide for https://www.itjuzi.com/user/login
+1537842526754	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/user/login
+1537842526758	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/user/login?redirect=&flag=&radar_coupon=
+1537842526769	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1537842526939	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/user/login?redirect=&flag=&radar_coupon=
+[Parent 4316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3588, Chrome_ChildThread] WA
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+RNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3588, Chrome_ChildThread] W[Child 15292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15292, Chrome_ChildThread] WARNING: pipe err[Parent 4316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2912, Chrome_ChildThr1537842720655	Marionette	INFO	Stopped listening on port 52705
+[GPU 10388, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537842806635	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\anzhuang\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salt\\AppData\\Local\\Temp\\rust_mozprofile.LWszrsmEoAvR"
+1537842808822	Marionette	INFO	Listening on port 53376
+1537842808864	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537842808898	Marionette	DEBUG	[6442450945] Frame script loaded
+1537842808901	Marionette	DEBUG	[6442450945] Frame script registered
+1537842809006	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537842810731	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537842811284	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/user/login
+1537842813017	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537842816230	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/user/login
+JavaScript error: https://www.itjuzi.com/user/login, line 1: ReferenceError: CheckPost is not defined
+1537842828883	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/user/login
+1537842829492	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/user/login
+1537842829495	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/user/login
+1537842829510	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/user/login?redirect=&flag=&radar_coupon=
+1537842829526	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1537842829708	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/user/login?redirect=&flag=&radar_coupon=
+1537842840202	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/
+1537842840802	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/
+1537842840803	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/
+1537842841066	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/7312
+1537842842204	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/7312
+1537842910473	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/7312
+1537842911095	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/7312
+1537842911096	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/7312
+1537842911344	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/7312
+1537842912696	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/7312
+1537843560906	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/7312
+1537843561644	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/7312
+1537843561647	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/7312
+1537843563987	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/7312
+1537843568436	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/7312
+[Parent 16024, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12092, Chrome_ChildThread] WARNING: pipe[Parent 16024, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16024, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 16024, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel1537844595490	Marionette	INFO	Stopped listening on port 53376
+[GPU 14636, Chrome_ChildTh
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+2450945] Received DOM event pagehide for https://www.itjuzi.com/user/login
+1537843580060	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/user/login
+1537843580075	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/user/login?redirect=&flag=&radar_coupon=
+1537843580096	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1537843580269	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/user/login?redirect=&flag=&radar_coupon=
+1537843590784	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/
+1537843591327	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/
+1537843591330	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/
+1537843591576	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/7312
+1537843592023	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/7312
+1537843594246	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/7312
+1537843596110	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/7312
+1537843596110	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/7312
+1537843596206	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://radar.itjuzi.com/investment
+1537843596682	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450959
+1537843598733	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://radar.itjuzi.com/investment
+[Parent 12976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9360, Chrome_ChildT[Child 7096, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 7096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7096, Chrome_ChildTh[Parent 12976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16096, Chrome_C1537843678331	Marionette	INFO	Stopped listening on port 54829
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537843684949	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\anzhuang\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salt\\AppData\\Local\\Temp\\rust_mozprofile.IkNgCLhUluBn"
+1537843687251	Marionette	INFO	Listening on port 55171
+1537843687753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537843687776	Marionette	DEBUG	[6442450945] Frame script loaded
+1537843687778	Marionette	DEBUG	[6442450945] Frame script registered
+1537843687790	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537843691322	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537843691845	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/user/login
+1537843694513	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537843697430	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/user/login
+JavaScript error: https://www.itjuzi.com/user/login, line 1: ReferenceError: CheckPost is not defined
+1537843697537	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/user/login
+1537843698149	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/user/login
+1537843698150	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/user/login
+1537843698155	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/user/login?redirect=&flag=&radar_coupon=
+1537843698169	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1537843698420	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/user/login?redirect=&flag=&radar_coupon=
+1537843738980	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/
+1537843739625	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/
+1537843739630	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/
+1537843739917	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/7312
+1537843741150	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/7312
+1537843743190	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/7312
+1537843743989	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/7312
+1537843743992	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/7312
+1537843744165	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://radar.itjuzi.com/investment
+1537843744537	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450959
+1537843746590	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://radar.itjuzi.com/investment
+1537844510100	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://radar.itjuzi.com/investment
+1537844510847	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://radar.itjuzi.com/investment
+1537844510851	Marionette	DEBUG	[6442450945] Received DOM event unload for http://radar.itjuzi.com/investment
+1537844511283	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/7312
+1537844511297	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1537844515520	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/7312
+[Parent 5900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3940, Chrome_C[Child 2600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/bui[Parent 5900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12004, Chrome_ChildThread] WARNING: pipe error: 109: fil1537844591993	Marionette	INFO	Stopped listening on port 55171
+[GPU 7740, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537844883651	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\anzhuang\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salt\\AppData\\Local\\Temp\\rust_mozprofile.CPoyqswtffpe"
+1537844885859	Marionette	INFO	Listening on port 57499
+1537844886013	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537844886038	Marionette	DEBUG	[6442450945] Frame script loaded
+1537844886039	Marionette	DEBUG	[6442450945] Frame script registered
+1537844886057	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537844886760	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537844887238	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/user/login
+1537844888472	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537844892033	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/user/login
+JavaScript error: https://www.itjuzi.com/user/login, line 1: ReferenceError: CheckPost is not defined
+1537844892184	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/user/login
+1537844893192	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/user/login
+1537844893194	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/user/login
+1537844893199	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/user/login?redirect=&flag=&radar_coupon=
+1537844893211	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1537844893410	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/user/login?redirect=&flag=&radar_coupon=
+1537844908879	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/
+1537844909439	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/
+1537844909441	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/
+1537844909684	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/7312
+1537844910967	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/7312
+1537844912475	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/7312
+1537844913503	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/7312
+1537844913508	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/7312
+1537844913622	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://radar.itjuzi.com/investment
+1537844914056	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450959
+1537844914286	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://radar.itjuzi.com/investment
+1537844993297	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\anzhuang\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salt\\AppData\\Local\\Temp\\rust_mozprofile.aAuMZU1gQIRG"
+1537844995693	Marionette	INFO	Listening on port 57789
+1537844996104	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537844996142	Marionette	DEBUG	[6442450945] Frame script loaded
+1537844996142	Marionette	DEBUG	[6442450945] Frame script registered
+1537844996158	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537844997065	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537844997635	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/user/login
+1537844998918	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537845002347	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/user/login
+JavaScript error: https://www.itjuzi.com/user/login, line 1: ReferenceError: CheckPost is not defined
+1537845002527	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/user/login
+1537845003172	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/user/login
+1537845003173	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/user/login
+1537845003179	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/user/login?redirect=&flag=&radar_coupon=
+1537845003191	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1537845003381	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/user/login?redirect=&flag=&radar_coupon=
+1537845013860	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/
+1537845014454	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/
+1537845014456	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/
+1537845014740	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/7312
+1537845015833	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/7312
+1537845017320	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/7312
+1537845018009	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/7312
+1537845018010	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/7312
+1537845018506	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/1
+1537845019674	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/1
+1537845019991	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845021746	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845023302	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/1
+1537845023894	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/1
+1537845023904	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/1
+1537845024398	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/2
+1537845025675	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/2
+1537845026058	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845027810	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845029359	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/2
+1537845030031	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/2
+1537845030035	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/2
+1537845030332	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/3
+1537845031517	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/3
+1537845031839	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845033619	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845035148	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/3
+1537845035711	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/3
+1537845035719	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/3
+1537845036037	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/4
+1537845037288	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/4
+1537845037693	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845039478	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845041117	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/4
+1537845041811	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/4
+1537845041815	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/4
+1537845042118	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/5
+1537845043816	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/5
+1537845044251	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845046013	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845047541	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/5
+1537845048384	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/5
+1537845048389	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/5
+1537845048686	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/6
+1537845049977	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/6
+1537845050342	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845052111	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845053768	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/6
+1537845054362	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/6
+1537845054364	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/6
+1537845054709	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/7
+1537845056027	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/7
+1537845056376	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845058115	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845059647	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/7
+1537845060255	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/7
+1537845060260	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/7
+1537845060534	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/8
+1537845061806	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/8
+1537845062184	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845063925	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845065455	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/8
+1537845066001	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/8
+1537845066005	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/8
+1537845066379	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/9
+1537845067629	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/9
+1537845068092	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845069932	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845071573	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/9
+1537845072161	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/9
+1537845072164	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/9
+1537845072467	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/10
+1537845073671	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/10
+1537845073980	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845075816	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845077353	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/10
+1537845077934	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/10
+1537845077941	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/10
+1537845078240	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/11
+1537845079455	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/11
+1537845079776	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845081550	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845083079	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/11
+1537845083868	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/11
+1537845083877	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/11
+1537845084175	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/12
+1537845085348	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/12
+1537845085810	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845087578	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845089147	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/12
+1537845089738	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/12
+1537845089744	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/12
+1537845090019	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/13
+1537845091284	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/13
+1537845091710	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845093241	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/13
+1537845093724	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/13
+1537845093730	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/13
+1537845093987	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/14
+1537845095168	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/14
+1537845095890	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845098105	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845099627	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/14
+1537845100259	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/14
+1537845100263	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/14
+1537845100580	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/15
+1537845100958	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/15
+1537845101689	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845103912	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845105434	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/15
+1537845106123	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/15
+1537845106125	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/15
+1537845106333	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/16
+1537845106739	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/16
+1537845107466	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845109126	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/16
+1537845109688	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/16
+1537845109689	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/16
+1537845109996	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/17
+1537845110347	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/17
+1537845111179	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845113396	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845114919	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/17
+1537845115373	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/17
+1537845115374	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/17
+1537845115657	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/18
+1537845116000	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/18
+1537845116726	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845118287	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/18
+1537845118782	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/18
+1537845118783	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/18
+1537845119006	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/19
+1537845119481	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/19
+1537845120198	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845122459	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845123981	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/19
+1537845125606	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/19
+1537845125607	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/19
+1537845125848	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/20
+1537845126335	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/20
+1537845127073	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537845129300	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 15416, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15416, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17040, Chrom[Parent 15416, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16120, Chrome_ChildThread] WARNING: p1537858965207	Marionette	INFO	Stopped listening on port 57789
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+tjuzi.com/user/login, line 1: ReferenceError: CheckPost is not defined
+1537854852362	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/user/login
+1537854852975	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/user/login
+1537854852976	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/user/login
+1537854852980	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/user/login?redirect=&flag=&radar_coupon=
+1537854852993	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1537854853177	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/user/login?redirect=&flag=&radar_coupon=
+1537854878691	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/
+1537854879218	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/
+1537854879220	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/
+1537854879504	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/7312
+1537854880784	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/7312
+1537854881140	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 7660, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18004, Chrome_ChildThread] WARN[Parent 7660, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8296, Chrome_ChildThread]1537854895996	Marionette	INFO	Stopped listening on port 53325
+[GPU 17104, Chrome_ChildThread] WARNING: pipe error: 10
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537855434251	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\anzhuang\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salt\\AppData\\Local\\Temp\\rust_mozprofile.GNlzqvSOPv3t"
+1537855436980	Marionette	INFO	Listening on port 54586
+1537855437181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537855437208	Marionette	DEBUG	[6442450945] Frame script loaded
+1537855437209	Marionette	DEBUG	[6442450945] Frame script registered
+1537855437237	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537855438076	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537855438563	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/user/login
+1537855440032	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537855443268	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/user/login
+JavaScript error: https://www.itjuzi.com/user/login, line 1: ReferenceError: CheckPost is not defined
+1537855443448	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/user/login
+1537855444029	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/user/login
+1537855444031	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/user/login
+1537855444044	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/user/login?redirect=&flag=&radar_coupon=
+1537855444068	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1537855444228	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/user/login?redirect=&flag=&radar_coupon=
+1537855469810	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/
+1537855470340	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/
+1537855470342	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/
+1537855470637	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/7312
+1537855471703	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/7312
+1537855472016	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855501997	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/7312
+1537855502699	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/7312
+1537855502701	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/7312
+1537855503066	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/7312
+1537855505988	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/7312
+1537855506088	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/7312
+1537855506098	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Parent 192, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18496, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 18496, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 18496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18496, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Ch[Child 18496, Chrome_Childild 3200, Chrome_CThread] WARNhildTING:hread] WARNI pipe error: 109: file z:/build/build/src/ipc/chromium/srcNG: pipe /cherror: 109: file z:/build/build/src/ipc/chromium/srome/common/ipc_channel_win.cc, line 346rc/c
+hrome/common/ipc_channel_win.cc, line 346
+[Child 3200, Chrome_ChildThread] WARNING: pipe error: 109: file z[Parent 192, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7640, Chrome_ChildThread1537855506283	Marionette	INFO	Stopped listening on port 54586
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537855512009	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\anzhuang\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salt\\AppData\\Local\\Temp\\rust_mozprofile.0rdE0dtfWvmg"
+1537855514534	Marionette	INFO	Listening on port 54893
+1537855514832	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537855514855	Marionette	DEBUG	[6442450945] Frame script loaded
+1537855514856	Marionette	DEBUG	[6442450945] Frame script registered
+1537855514878	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537855515599	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537855516179	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/user/login
+1537855518811	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537855521015	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/user/login
+JavaScript error: https://www.itjuzi.com/user/login, line 1: ReferenceError: CheckPost is not defined
+1537855521176	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/user/login
+1537855522958	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/user/login
+1537855522961	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/user/login
+1537855522967	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/user/login?redirect=&flag=&radar_coupon=
+1537855522980	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1537855523163	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/user/login?redirect=&flag=&radar_coupon=
+1537855538623	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/
+1537855539780	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/
+1537855539784	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/
+1537855540069	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/7312
+1537855541319	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/7312
+1537855541610	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 10788, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10788, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/c[Parent 10788, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15632, Chrome_ChildThread] WARNING: p1537856559477	Marionette	INFO	Stopped listening on port 54893
+[GPU 7356, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+nt pagehide for https://www.itjuzi.com/user/login
+1537855825788	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/user/login
+1537855825797	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/user/login?redirect=&flag=&radar_coupon=
+1537855825816	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1537855826003	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/user/login?redirect=&flag=&radar_coupon=
+1537855836583	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/
+1537855837122	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/
+1537855837125	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/
+1537855837421	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/7312
+1537855838573	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/7312
+1537855838889	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855863652	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/7312
+1537855864359	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/7312
+1537855864361	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/7312
+1537855864895	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/1
+1537855866143	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/1
+1537855866485	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855866815	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855866887	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/1
+1537855868705	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/1
+1537855868708	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/1
+1537855869259	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/2
+1537855870942	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/2
+1537855871540	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855872029	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855872237	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/2
+1537855872801	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/2
+1537855872807	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/2
+1537855873190	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/3
+1537855874361	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/3
+1537855874683	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855874953	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855875013	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/3
+1537855875722	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/3
+1537855875723	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/3
+1537855876132	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/4
+1537855877359	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/4
+1537855877714	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855878148	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855878206	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/4
+1537855881020	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/4
+1537855881024	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/4
+1537855881367	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/5
+1537855882833	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/5
+1537855883149	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855883428	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855883554	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/5
+1537855885129	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/5
+1537855885133	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/5
+1537855885508	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/6
+1537855886909	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/6
+1537855887267	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855887602	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855887797	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/6
+1537855889470	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/6
+1537855889472	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/6
+1537855889863	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/7
+1537855890991	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/7
+1537855891342	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855891614	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855891701	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/7
+1537855893201	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/7
+1537855893205	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/7
+1537855893510	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/8
+1537855894765	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/8
+1537855895181	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855895462	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855895568	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/8
+1537855896084	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/8
+1537855896087	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/8
+1537855896500	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/9
+1537855897687	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/9
+1537855898010	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855898387	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855898456	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/9
+1537855899985	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/9
+1537855899986	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/9
+1537855900322	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/10
+1537855901583	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/10
+1537855901984	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855902240	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855902307	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/10
+1537855903035	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/10
+1537855903037	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/10
+1537855903527	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/11
+1537855904460	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/11
+1537855904788	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855905067	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855905138	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/11
+1537855905988	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/11
+1537855905990	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/11
+1537855906312	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/12
+1537855907508	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/12
+1537855907954	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855908207	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855908277	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/12
+1537855909848	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/12
+1537855909849	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/12
+1537855910133	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/13
+1537855911454	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/13
+1537855911813	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855915986	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/13
+1537855916551	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/13
+1537855916555	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/13
+1537855916834	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/14
+1537855917986	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/14
+1537855918293	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855918702	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855918771	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/14
+1537855920963	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/14
+1537855920964	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/14
+1537855921285	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/15
+1537855922372	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/15
+1537855922853	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855923179	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855923247	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/15
+1537855924730	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/15
+1537855924732	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/15
+1537855925051	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/16
+1537855926401	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/16
+1537855926725	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855930822	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/16
+1537855931430	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/16
+1537855931433	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/16
+1537855931725	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/17
+1537855933004	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/17
+1537855933359	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855933625	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855933736	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/17
+1537855934690	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/17
+1537855934692	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/17
+1537855935009	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/18
+1537855936170	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/18
+1537855936492	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855940567	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/18
+1537855941165	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/18
+1537855941167	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/18
+1537855941467	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/19
+1537855942733	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/19
+1537855943176	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855943509	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855943567	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/19
+1537855944055	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/19
+1537855944059	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/19
+1537855944356	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/20
+1537855945523	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/20
+1537855945844	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855946297	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855946389	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/20
+1537855947308	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/20
+1537855947310	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/20
+1537855947690	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/21
+1537855949045	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/21
+1537855949399	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855953899	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/21
+1537855954514	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/21
+1537855954517	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/21
+1537855955081	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/22
+1537855956274	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/22
+1537855956861	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855957295	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855957373	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/22
+1537855961104	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/22
+1537855961108	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/22
+1537855961426	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/23
+1537855962801	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/23
+1537855963152	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855963425	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855963505	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/23
+1537855964208	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/23
+1537855964210	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/23
+1537855964560	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/24
+1537855965747	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/24
+1537855966259	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855970400	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/24
+1537855971349	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/24
+1537855971350	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/24
+1537855971738	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/25
+1537855972904	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/25
+1537855973558	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855973859	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855973953	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/25
+1537855977774	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/25
+1537855977775	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/25
+1537855978135	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/26
+1537855979541	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/26
+1537855979941	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855984115	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/26
+1537855984627	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/26
+1537855984629	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/26
+1537855984980	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/27
+1537855986156	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/27
+1537855986485	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855990550	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/27
+1537855991179	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/27
+1537855991181	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/27
+1537855991619	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/28
+1537855992991	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/28
+1537855993344	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855993605	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855993657	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/28
+1537855997485	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/28
+1537855997489	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/28
+1537855997763	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/29
+1537855998911	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/29
+1537855999213	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855999457	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537855999528	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/29
+1537856000960	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/29
+1537856000962	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/29
+1537856001180	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/30
+1537856002425	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/30
+1537856002812	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856006910	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/30
+1537856007482	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/30
+1537856007484	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/30
+1537856007877	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/31
+1537856009195	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/31
+1537856010107	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856010374	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856010590	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/31
+1537856012175	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/31
+1537856012180	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/31
+1537856012792	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/32
+1537856014223	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/32
+1537856014563	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856019081	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/32
+1537856020236	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/32
+1537856020238	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/32
+1537856020581	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/33
+1537856021766	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/33
+1537856022092	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856022349	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856022408	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/33
+1537856023017	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/33
+1537856023018	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/33
+1537856023302	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/34
+1537856024403	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/34
+1537856024726	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856025071	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856025284	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/34
+1537856026786	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/34
+1537856026789	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/34
+1537856027474	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/35
+1537856028727	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/35
+1537856029597	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856029875	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856029935	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/35
+1537856032536	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/35
+1537856032540	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/35
+1537856032854	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/36
+1537856034127	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/36
+1537856034936	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856035199	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856035238	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/36
+1537856037819	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/36
+1537856037820	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/36
+1537856038109	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/37
+1537856039640	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/37
+1537856040389	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856044454	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/37
+1537856044973	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/37
+1537856044975	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/37
+1537856045222	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/38
+1537856046680	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/38
+1537856047083	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856051149	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/38
+1537856051740	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/38
+1537856051742	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/38
+1537856052068	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/39
+1537856053304	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/39
+1537856053599	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856057849	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/39
+1537856058996	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/39
+1537856058999	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/39
+1537856059348	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/40
+1537856060495	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/40
+1537856061362	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856065411	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/40
+1537856065995	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/40
+1537856065999	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/40
+1537856066292	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/41
+1537856067381	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/41
+1537856068102	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856072155	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/41
+1537856072891	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/41
+1537856072892	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/41
+1537856073148	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/42
+1537856075923	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/42
+1537856076545	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856081956	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/42
+1537856082571	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/42
+1537856082572	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/42
+1537856082807	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/43
+1537856084050	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/43
+1537856084384	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856088478	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/43
+1537856089060	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/43
+1537856089062	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/43
+1537856089313	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/44
+1537856090639	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/44
+1537856091693	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856095745	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/44
+1537856097634	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/44
+1537856097635	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/44
+1537856097988	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/45
+1537856099322	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/45
+1537856100217	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856100500	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856101021	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/45
+1537856101501	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/45
+1537856101506	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/45
+1537856101754	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/46
+1537856103014	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/46
+1537856103799	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856107854	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/46
+1537856108429	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/46
+1537856108429	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/46
+1537856108753	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/47
+1537856109964	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/47
+1537856110287	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856110551	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856110619	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/47
+1537856112614	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/47
+1537856112619	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/47
+1537856112871	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/48
+1537856113227	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/48
+1537856113945	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856114677	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856114721	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/48
+1537856116371	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/48
+1537856116372	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/48
+1537856116659	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/49
+1537856117079	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/49
+1537856118213	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856118931	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856118966	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/49
+1537856120107	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/49
+1537856120108	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/49
+1537856120313	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/50
+1537856120661	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/50
+1537856121380	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856125429	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/50
+1537856126278	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/50
+1537856126279	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/50
+1537856126554	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/51
+1537856127034	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/51
+1537856128156	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856132503	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/51
+1537856133023	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/51
+1537856133024	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/51
+1537856133276	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/52
+1537856133755	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/52
+1537856134646	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856139251	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/52
+1537856139792	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/52
+1537856139795	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/52
+1537856140028	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/53
+1537856140524	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/53
+1537856141241	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856145317	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/53
+1537856145932	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/53
+1537856145933	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/53
+1537856146301	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/54
+1537856146708	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/54
+1537856147453	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856148328	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856148741	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/54
+1537856150357	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/54
+1537856150492	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/54
+1537856150494	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/54
+1537856150530	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/55&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856150537	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/55&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856152321	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/55&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856152323	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/55&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856152323	Marionette	DEBUG	[6442450945] Received DOM event unload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/55&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856152336	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/56&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856152346	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/56&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856153965	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/56&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856153968	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/56&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856153969	Marionette	DEBUG	[6442450945] Received DOM event unload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/56&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856153986	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/57&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856153994	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/57&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856155627	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/57&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856155628	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/57&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856155629	Marionette	DEBUG	[6442450945] Received DOM event unload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/57&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856155642	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/58&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856155650	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/58&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856157008	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/58&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856157010	Marionette	DEBUG	[6442450945] Received DOM event unload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/58&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856157307	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/59
+1537856157772	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/59
+1537856158910	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856163344	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/59
+1537856164197	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/59
+1537856164198	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/59
+1537856164736	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/60
+1537856165127	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/60
+1537856166263	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856170314	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/60
+1537856170929	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/60
+1537856170935	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/60
+1537856171183	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/61
+1537856171545	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/61
+1537856172685	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856173407	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856173437	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/61
+1537856175057	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/61
+1537856175109	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/61
+1537856175110	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/61
+1537856175124	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/62&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856175132	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/62&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856176745	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/62&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856176746	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/62&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856176748	Marionette	DEBUG	[6442450945] Received DOM event unload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/62&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856176760	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/63&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856176770	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/63&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856178386	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/63&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856178387	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/63&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856178388	Marionette	DEBUG	[6442450945] Received DOM event unload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/63&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856178404	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/64&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856178411	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/64&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856180138	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/64&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856180189	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/64&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856180190	Marionette	DEBUG	[6442450945] Received DOM event unload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/64&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856180239	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/65&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856180245	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/65&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856182443	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/65&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856182443	Marionette	DEBUG	[6442450945] Received DOM event unload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/65&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856183239	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/66
+1537856183648	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/66
+1537856184679	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856188958	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/66
+1537856189391	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/66
+1537856189394	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/66
+1537856189606	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/67
+1537856189979	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/67
+1537856190699	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856194745	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/67
+1537856196428	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/67
+1537856196480	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/67
+1537856196482	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/67
+1537856196500	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/68&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856196508	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/68&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856197003	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/68&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856197005	Marionette	DEBUG	[6442450945] Received DOM event unload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/68&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856197439	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/69
+1537856197828	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/69
+1537856198754	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856202829	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/69
+1537856203406	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/69
+1537856203408	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/69
+1537856203694	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/70
+1537856204204	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/70
+1537856205085	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856205816	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856205849	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/70
+1537856206303	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/70
+1537856206304	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/70
+1537856206548	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/71
+1537856206889	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/71
+1537856207609	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856208326	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856208361	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/71
+1537856208894	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/71
+1537856208895	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/71
+1537856209195	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/72
+1537856210566	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/72
+1537856211283	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856212033	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856212830	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/72
+1537856214223	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/72
+1537856214227	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/72
+1537856214435	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/73
+1537856214812	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/73
+1537856215531	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856219583	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/73
+1537856220498	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/73
+1537856220501	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/73
+1537856220760	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/74
+1537856222736	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/74
+1537856223293	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856227344	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/74
+1537856227902	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/74
+1537856227908	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/74
+1537856228194	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/75
+1537856229424	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/75
+1537856229744	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856234045	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/75
+1537856234626	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/75
+1537856234631	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/75
+1537856234937	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/76
+1537856236249	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/76
+1537856236706	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856240756	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/76
+1537856241305	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/76
+1537856241308	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/76
+1537856241601	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/77
+1537856242813	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/77
+1537856243516	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856247574	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/77
+1537856248314	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/77
+1537856248316	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/77
+1537856248557	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/78
+1537856249808	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/78
+1537856250455	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856254538	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/78
+1537856255109	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/78
+1537856255111	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/78
+1537856255392	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/79
+1537856257142	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/79
+1537856257966	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856258211	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856258250	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/79
+1537856258703	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/79
+1537856258708	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/79
+1537856259032	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/80
+1537856260287	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/80
+1537856260578	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856260847	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856260880	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/80
+1537856262471	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/80
+1537856262524	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/80
+1537856262528	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/80
+1537856262554	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/101&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856262569	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/101&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856264158	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/101&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856264159	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/101&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856264160	Marionette	DEBUG	[6442450945] Received DOM event unload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/101&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856264175	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/102&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856264191	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/102&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856265998	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/102&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856265998	Marionette	DEBUG	[6442450945] Received DOM event unload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/102&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856266261	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/103
+1537856267778	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/103
+1537856268570	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856272957	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\anzhuang\\Mozilla Firefox\\firefox.exe"1537856273445	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/103
+153785621537856276307	Marionette	INFO	Listening on port 57603
+1537856276556	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537856276600	Marionette	DEBUG	[6442450945] Frame script loaded
+1537856276603	Marionette	DEBUG	[6442450945] Frame script registered
+1537856277049	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537856279096	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:b1537856281124	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/104
+1537856281806	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/104
+1537856281809	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/104
+1537856282223	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/108
+1537856283532	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/108
+1537856283946	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856288094	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/108
+1537856289065	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/108
+1537856289067	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/108
+1537856289479	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/113
+1537856290948	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/113
+1537856292014	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856296155	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/113
+1537856297027	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/113
+1537856297030	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/113
+1537856297322	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/118
+1537856298636	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/118
+1537856299525	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537856304412	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.itjuzi.com/investfirm/118
+1537856304946	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.itjuzi.com/investfirm/118
+1537856304948	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.itjuzi.com/investfirm/118
+1537856305204	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.itjuzi.com/investfirm/172
+1537856306502	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.itjuzi.com/investfirm/172
+1537856306874	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+r&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856282868	Marionette	DEBUG	[6442450945] Received DOM event unload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/106&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856282885	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/107&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856282906	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/107&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856284553	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/107&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856284555	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/107&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856284556	Marionette	DEBUG	[6442450945] Received DOM event unload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/107&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856284575	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/109&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856284601	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/109&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856286261	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/109&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856286262	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/109&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856286262	Marionette	DEBUG	[6442450945] Received DOM event unload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/109&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856286277	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/110&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856286329	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/110&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856287974	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/110&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856287978	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/110&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856287980	Marionette	DEBUG	[6442450945] Received DOM event unload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/110&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856288002	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/111&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856288035	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/111&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856289584	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/111&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856289586	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/111&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856289588	Marionette	DEBUG	[6442450945] Received DOM event unload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/111&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856289622	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/112&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856289678	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/112&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856291230	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/112&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856291230	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/112&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856291231	Marionette	DEBUG	[6442450945] Received DOM event unload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/112&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856291249	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/114&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856291278	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/114&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856293037	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/114&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856293037	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/114&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856293038	Marionette	DEBUG	[6442450945] Received DOM event unload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/114&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856293058	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/115&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856293095	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/115&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856295751	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/115&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856295751	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/115&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856295752	Marionette	DEBUG	[6442450945] Received DOM event unload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/115&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856295769	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/116&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856295798	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/116&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856297512	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/116&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856297516	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/116&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856297518	Marionette	DEBUG	[6442450945] Received DOM event unload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/116&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856297552	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/117&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856297595	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/117&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856299377	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/117&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856299378	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/117&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856299379	Marionette	DEBUG	[6442450945] Received DOM event unload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/117&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856299395	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/119&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856299433	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/119&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856300414	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/119&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856300415	Marionette	DEBUG	[6442450945] Received DOM event unload for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/119&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+1537856300418	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Child 1908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1908, Chrome_ChildTh[Child 12640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12640, Chrome_ChildThread] WARNING: pipe er[Parent 14888, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537856300705	Marionette	INFO	Stopped listening on port 57603
+[GPU 1384, Chrome_ChildThre
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537857486812	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\anzhuang\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salt\\AppData\\Local\\Temp\\rust_mozprofile.5ONKpTFUvMsS"
+1537857489334	Marionette	INFO	Listening on port 55573
+1537857489621	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537857489644	Marionette	DEBUG	[6442450945] Frame script loaded
+1537857489645	Marionette	DEBUG	[6442450945] Frame script registered
+1537857617083	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537857618944	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537857618945	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537857618972	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/7312&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+[Parent 18788, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3148, Chrome_ChildThread] WAR[Child 17592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17592, Chrome_Ch[Parent 18788, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14448, Chrome_ChildT1537857687919	Marionette	INFO	Stopped listening on port 55573
+[GPU 18532, Chrome_ChildThread] WARNING: pi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537857700732	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\anzhuang\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salt\\AppData\\Local\\Temp\\rust_mozprofile.EST9Cip8XAtM"
+1537857703460	Marionette	INFO	Listening on port 56340
+1537857703565	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537857703607	Marionette	DEBUG	[6442450945] Frame script loaded
+1537857703620	Marionette	DEBUG	[6442450945] Frame script registered
+1537857714010	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537857715789	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537857715791	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537857715819	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for about:neterror?e=nssFailure2&u=https%3A//www.itjuzi.com/investfirm/7312&c=UTF-8&f=regular&d=%E8%BD%BD%E5%85%A5%E9%A1%B5%E9%9D%A2%E6%97%B6%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%87%8D%E7%BD%AE%E3%80%82
+[Parent 5608, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19844, Chrome_ChildThread] WA[Child 16180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16180, Chrome_ChildThread] WARNING: pipe error: 109: file[Parent 5608, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20472, Chrome_1537857736274	Marionette	INFO	Stopped listening on port 56340
+[GPU 15740, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537858603473	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\anzhuang\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salt\\AppData\\Local\\Temp\\rust_mozprofile.4DTbh36C4qEf"
+1537858606117	Marionette	INFO	Listening on port 55358
+1537858606307	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537858606344	Marionette	DEBUG	[6442450945] Frame script loaded
+1537858606346	Marionette	DEBUG	[6442450945] Frame script registered
+1537858785348	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\anzhuang\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salt\\AppData\\Local\\Temp\\rust_mozprofile.gK5NKgkDUXry"
+1537858787967	Marionette	INFO	Listening on port 55728
+1537858788193	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537858788221	Marionette	DEBUG	[6442450945] Frame script loaded
+1537858788222	Marionette	DEBUG	[6442450945] Frame script registered
