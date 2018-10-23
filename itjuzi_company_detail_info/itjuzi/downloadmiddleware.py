@@ -51,9 +51,9 @@ class SeleniumMiddleware(object):
         driver.get( 'https://www.itjuzi.com/user/login' )
         if driver.find_element_by_xpath( '//*[@id="create_account_email"]' ):
             user = driver.find_element_by_xpath( '//*[@id="create_account_email"]' )
-            user.send_keys( '18676751579' )
+            user.send_keys( '自己的账号' )
             pwd = driver.find_element_by_xpath( '//*[@id="create_account_password"]' )
-            pwd.send_keys( 'yan677326' )
+            pwd.send_keys( '密码' )
             login_button = driver.find_element_by_xpath( '//*[@id="login_btn"]' )
             login_button.click()
 
